@@ -142,10 +142,7 @@ nav ul
 	margin: 0;
 	padding: 0;
 }
-nav ul li a:hover
-{
-	background: #343B54;
-}
+
 nav ul li
 {
 	display: inline-block;
@@ -173,7 +170,7 @@ nav ul #publicar_nav a
 	font-style: italic;
 	padding: 0.6em 0.8em;
 	text-shadow: rgba(0,0,0,0.5) 2px 2px 5px;
-	-webkit-transition:0.3s;
+	-webkit-transition:0.3s; 
 		
 }
 nav ul #publicar_nav a:hover
